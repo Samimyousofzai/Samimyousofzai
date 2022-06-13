@@ -9,13 +9,13 @@
 ## 🙋‍♂️ About Me
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Clouds**
 
 - 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/AdityaKoranga?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Samimyousofzai?tab=repositories)**
 
 - 📫 How to reach me **samimyousofzai001@gmail.com**
 
@@ -60,7 +60,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aditya-koranga-061517220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.https://www.linkedin.com/in/samim-yousofzai-924508172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/AddyTiv"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
@@ -71,4 +71,4 @@
 <a href="https://github.com/AdityaKoranga/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AddyTiv">
 </a>
-<a href="https://github.com/AdityaKoranga?tab=followers"><img src="https://img.shields.io/github/followers/AdityaKoranga?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Samimyousofzai/Java-Practical-?tab=followers"><img src="https://img.shields.io/github/followers/AdityaKoranga?label=Followers&style=social" alt="GitHub Badge"></a>
