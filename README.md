@@ -61,7 +61,7 @@
 <p align="left">
 
 <a href = "https://www.https://www.linkedin.com/in/samim-yousofzai-924508172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AddyTiv"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
 
