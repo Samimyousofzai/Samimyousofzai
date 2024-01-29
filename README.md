@@ -9,9 +9,9 @@
 ## 🙋‍♂️ About Me
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
 
-- 🔭 I’m currently working on **Clouds**
+- 🔭 I’m currently working on**SOFTWARE DEVELOPMENT PROFESSIONAL**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning**ARTIFIAL INTELLIGENCE,MACHINE LEARNING**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -33,8 +33,8 @@
 <br/>
 
 <p align="left">
-    <a href="https://github.com/AdityaKoranga/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aditya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKoranga&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Samim yousofzai/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Samim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Samim Yousofzai&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -43,8 +43,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/AdityaKoranga/github-readme-stats"><img alt="ADITYA's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaKoranga&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AdityaKoranga/github-readme-stats"><img alt="ADITYA's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKoranga&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Samim Yousofzai/github-readme-stats"><img alt="ADITYA's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Samim Yousofzai&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Samim Yousofzai/github-readme-stats"><img alt="SAMIM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samim Yousofzai&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/AdityaKoranga/github-readme-activity-graph"><img alt="ADITYA's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdityaKoranga&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Samim Yousofzai/github-readme-activity-graph"><img alt="SAMIM's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Samim Yousofzai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -60,7 +60,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.https://www.linkedin.com/in/samim-yousofzai-924508172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://https://www.linkedin.com/in/mohammad-samim-yousofzai-0b54a6275/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
@@ -68,7 +68,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/AdityaKoranga/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AddyTiv">
+<a href="https://github.com/Samim Yousofzai/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Samim Yousofzai">
 </a>
 <a href="https://github.com/Samimyousofzai/Java-Practical-?tab=followers"><img src="https://img.shields.io/github/followers/AdityaKoranga?label=Followers&style=social" alt="GitHub Badge"></a>
