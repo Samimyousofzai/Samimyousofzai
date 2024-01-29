@@ -9,11 +9,11 @@
 ## 🙋‍♂️ About Me
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
 
-- 🔭 **I’m currently working on**Software Development professional****
+- 🔭 **I’m currently working on(Software Development professional)**
 
-- 🌱 **I’m currently learning**Artificial intelligence,Machine Learning****
+- 🌱 **I’m currently learning(Artificial intelligence,Machine Learning)**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 **I’m looking to collaborate on (OpenSource Projects)**
 - 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Samimyousofzai?tab=repositories)**
 
